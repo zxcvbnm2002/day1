@@ -22,7 +22,7 @@
       {% endif %}
     </header>
 
-    <main class="site-main">
+    <main class="site-main{% if page.page_class %} {{ page.page_class }}{% endif %}">
       {{ content }}
     </main>
 

@@ -1,13 +1,22 @@
 ---
 title: SubPad Privacy Policy
 description: 订阅本（SubPad）隐私政策 · Privacy Policy
+page_class: policy-page
 ---
 
 <div class="doc-header">
-  <h1>订阅本（SubPad）隐私政策</h1>
+  <p class="doc-eyebrow">SubPad · 订阅本</p>
+  <h1>隐私政策</h1>
+  <p class="doc-lead">说明本 App 如何收集、存储与使用您的信息。数据默认仅存于您的设备。</p>
   <div class="doc-meta">
-    <span>最后更新 · May 2026</span>
-    <a href="mailto:zyhp105mt@outlook.com">zyhp105mt@outlook.com</a>
+    <span class="doc-meta-item">
+      <span class="doc-meta-label">更新</span>
+      May 2026
+    </span>
+    <span class="doc-meta-item">
+      <span class="doc-meta-label">联系</span>
+      <a href="mailto:zyhp105mt@outlook.com">zyhp105mt@outlook.com</a>
+    </span>
   </div>
 </div>
 
@@ -16,7 +25,8 @@ description: 订阅本（SubPad）隐私政策 · Privacy Policy
   <a href="#en">English</a>
 </nav>
 
-<div class="lang-block" id="zh">
+<div class="lang-block" id="zh" markdown="1">
+
 <span class="lang-tag">简体中文</span>
 
 ## 概述
@@ -37,11 +47,15 @@ description: 订阅本（SubPad）隐私政策 · Privacy Policy
 
 ## 权限与系统功能
 
+<div class="table-wrap" markdown="1">
+
 | 功能 | 用途 |
 |------|------|
 | **通知** | 在扣款日前向您发送本地提醒；可在系统设置或单条订阅中关闭 |
 | **面容 ID / 密码** | 若您开启 App 锁，身份验证在设备本地完成；我们不会收到生物识别数据 |
 | **桌面小组件** | 读取与本 App 相同的本地订阅数据以展示摘要 |
+
+</div>
 
 ## 第三方与追踪
 
@@ -65,7 +79,8 @@ description: 订阅本（SubPad）隐私政策 · Privacy Policy
 
 </div>
 
-<div class="lang-block" id="en">
+<div class="lang-block" id="en" markdown="1">
+
 <span class="lang-tag">English</span>
 
 ## Overview
@@ -86,11 +101,15 @@ Subscription names, amounts, billing dates, categories, payment sources, notes, 
 
 ## Permissions and system features
 
+<div class="table-wrap" markdown="1">
+
 | Feature | Purpose |
 |---------|---------|
 | **Notifications** | Optional local reminders before billing; you can turn them off in Settings or per subscription |
 | **Face ID / passcode** | If you enable app lock, authentication happens on-device; we do not receive biometric data |
 | **Widget** | Reads the same on-device subscription data to show a summary |
+
+</div>
 
 ## Third parties and tracking
 
